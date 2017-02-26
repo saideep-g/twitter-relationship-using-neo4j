@@ -1,7 +1,7 @@
 # twitter-relationship-using-neo4j
-Visually looking at the twitter relationship(s) using Neo4j and tweepy. This is a very basic attempt and more can be done to draw conclusions.
+Visually looking at the twitter relationship(s) using Neo4j and tweepy. This is a very basic attempt and additinal enhancements can be done to reduce noise and present the relationships better to draw conclusions.
 
-# graph in Ne04j
+# graph in Neo4j
 ![Neo4j graph](https://github.com/saideepchandg/twitter-relationship-using-neo4j/blob/master/ne04j_graph.png)
 
 # prerequisites
